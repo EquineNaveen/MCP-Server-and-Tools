@@ -1,10 +1,9 @@
 [project]
-name = "mcp"
+name = "mcpweather"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "langchain-groq>=0.3.4",
-    "mcp-use>=1.2.6",
+    "mcp[cli]>=1.10.1",
 ]
