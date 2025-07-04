@@ -8,7 +8,7 @@
         "mcp[cli]",
         "mcp",
         "run",
-        "E:\\mcpcourse\\mcpcrashcourse\\server\\weather.py"
+        "D:\\MCP-Server-and-Tools\\mcpweather\\server\\weather.py"
       ]
     }
 }

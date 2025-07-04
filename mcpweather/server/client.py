@@ -13,7 +13,7 @@ async def run_memory_chat():
     os.environ["GROQ_API_KEY"]=os.getenv("GROQ_API_KEY")
 
     # Config file path - change this to your config file
-    config_file = "server/weather.json"
+    config_file = "D:\\MCP-Server-and-Tools\\mcpweather\\server\\weather.json"
 
     print("Initializing chat...")
 
